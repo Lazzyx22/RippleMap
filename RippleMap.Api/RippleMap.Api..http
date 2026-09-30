@@ -1,0 +1,6 @@
+@RippleMap.Api__HostAddress = http://localhost:5104
+
+GET {{RippleMap.Api__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
